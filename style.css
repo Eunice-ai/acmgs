@@ -12,7 +12,7 @@
 }
 .header-title {
     padding: 30px;
-    font-size: 50px; 
+    font-size: 30px; 
 }
 .header-title img {
     width: 80%;
@@ -25,7 +25,7 @@
 .nav-link {
     display: inline-block;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     margin-inline: 10px;
     padding: 20px;
     color: rgb(5, 81, 5);
@@ -64,11 +64,11 @@
 .cards p {
     margin-block: 20px;
     text-align: center;
-    font-size: 30px;
+    font-size: 16px;
 }
 
 .main-paragraph {
-    font-size: 30px;
+    font-size: 16px;
 }
 
 .btn-about {
@@ -78,7 +78,7 @@
     background-color: rgb(5, 81, 5);
     color: white;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 16px;
     margin-block: 15px;
     margin-inline: auto;
 }
@@ -100,12 +100,12 @@ section .title {
 }
 
 section li {
-    font-size: 30px;
+    font-size: 16px;
     
 }
 
 .footer p {
-    font-size: 30px;
+    font-size: 16px;
     text-align: center;
     padding: 40px;
     background: grey;
