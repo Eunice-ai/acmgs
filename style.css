@@ -53,13 +53,15 @@
 .main div .main-paragraph {
     text-align: justify;
 }
-
+.cards {
+    width: 100%;
+    box-sizing: border-box;
+}
 .main .cards img{
     padding: 35px;
     background-color: white;
     border-radius: 10px;
     margin-inline: 20px;
-    box-sizing: border-box;
 }
 
 
