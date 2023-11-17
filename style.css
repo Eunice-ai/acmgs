@@ -57,7 +57,8 @@
     width: 100%;
     box-sizing: border-box;
 }
-.main .cards img{
+.main .cards img {
+    display: inline-block;
     padding: 35px;
     background-color: white;
     border-radius: 10px;
@@ -115,4 +116,11 @@ section li {
     background: grey;
     color: white;
     margin-top: 20px;
+}
+
+@media screen and (max-width: 760px) {
+    .main .cards img {
+        display: block;
+        margin-inline: auto;
+    }
 }
